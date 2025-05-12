@@ -8,7 +8,7 @@ Configurer ton identité Git :
 git config --global user.name "Ton Nom"
 git config --global user.email "ton@email.com"
 ```
-Aller chercher le projet (l'url du projet a la racien sur le web, enlever les <> et le trea/main à la fin)
+Aller chercher le projet (l'url épuré du projet, à la racine sur le web, sans le trea/main à la fin)
 cd /var/www/dossierDuProjet
 ```bash
 git clone url_du_dépôt_git
