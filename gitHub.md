@@ -1,6 +1,6 @@
 ## 🔄 Travailler avec Git dans la VM
 # Préparation
-LA PREMIERE FOIS :
+- étapes à faire une seule fois
 
 ### Installer github sur la vm
 - en root, mais n'oubliez pas de revenir en etd ensuite !
