@@ -75,11 +75,9 @@ git push
 ```
 ---
 
-| 🚀 Pousser ta branche sur GitHub | Les fois suivantes |
+| 🚀 Pousser ta branche **la premiere fois** sur GitHub | **Les fois suivantes** |
 |---------------------------------|--------------------|
-| ```bash                          | ```bash             |
-| git push --set-upstream origin nom-de-ta-branche | git push |
-| ```                              | ```                 |
+| ```bash git push --set-upstream origin nom-de-ta-branche ``` | ```bash git push ```|
 
 
 ### 🔄 10. Fusionner ta branche dans main (quand ton travail est prêt)
