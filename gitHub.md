@@ -109,3 +109,11 @@ Avant de commencer une nouvelle tâche ou pour continuer sur la même branche (s
   ```
 
 ---
+## ✨ Astuces utiles
+
+- Voir la liste des branches locales :
+
+  ```bash
+  git branch
+  ```
+
