@@ -10,10 +10,10 @@ git config --global user.email "ton@email.com"
 ```
 Aller chercher le projet (l'url épuré du projet, à la racine sur le web, sans le trea/main à la fin)
 cd /var/www/dossierDuProjet
+- *Le dossier de destination doit être vide !*
 ```bash
 git clone url_du_dépôt_git
 ```
-**Le dossier de destination doit être vide !**
 
 ### 📍 1. Se placer dans le dossier de travail
 ```bash
