@@ -21,7 +21,7 @@ git clone url_du_dépôt_git
 
 ### 📍 1. Se placer dans le dossier de travail
 ```bash
-cd /var/www/le-marabout/
+cd /var/www/dossierDeTravail/
 ```
 
 ### 🌱 2. S'assurer d'être sur `main` et le mettre à jour
@@ -31,12 +31,18 @@ git pull origin main
 ```
 
 ### 🌿 3. Créer une nouvelle branche de travail
+*C'est le -b qui fabrique la branche*
 ```bash
 git checkout -b nom-de-ta-branche
 ```
 
-ENSUITE :
-### ✍️ 4. Travailler sur ton projet
+# ✍️ 4. Travailler sur ton projet
+
+## Assure-toi d'être sur la bonne branche
+*Sans le -b tu basculeras vers cette branche*
+```bash
+git checkout nom-de-ta-branche
+```
 Modifier tes fichiers `.phtml`, `.php`, `.css`, `.js`, etc.
 
 ### 🔎 5. Vérifier les changements
@@ -59,10 +65,10 @@ git status
 git commit -m "Message clair sur ce que tu as modifié"
 ```
 
-### 🚀 9. Pousser ta branche sur GitHub la première fois
-```bash
-git push --set-upstream origin nom-de-ta-branche
-```
+  ### 🚀 9. Pousser ta branche sur GitHub la première fois
+  ```bash
+  git push --set-upstream origin nom-de-ta-branche
+  ```
 9. a les fois suivantes 
 ```bash
 git push
