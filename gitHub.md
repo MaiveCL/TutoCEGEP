@@ -65,7 +65,7 @@ git status
 git commit -m "Message clair sur ce que tu as modifié"
 ```
 ---
-### 🚀 9. Pousser ta branche sur GitHub la première fois
+#### 🚀 9. Pousser ta branche sur GitHub la première fois
   ```bash
   git push --set-upstream origin nom-de-ta-branche
   ```
