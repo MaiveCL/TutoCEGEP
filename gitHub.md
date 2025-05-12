@@ -3,6 +3,7 @@
 LA PREMIERE FOIS :
 
 ### Installer github sur la vm
+- en root, mais n'oubliez pas de revenir en etd ensuite !
    ```bash
    apt update
    apt install git -y
