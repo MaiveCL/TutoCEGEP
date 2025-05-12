@@ -12,7 +12,7 @@ Assure-toi d'être dans le dossier de ton projet
 ```bash
 cd /var/www/dossierDuProjet
 ```
-Aller chercher le projet (l'url épuré du projet, à la racine sur le web, sans le trea/main à la fin)
+copie l'url épuré du projet (à la racine, mais sans le trea/main à la fin)
 - *Le dossier de destination doit être vide !*
 ```bash
 git clone url_du_dépôt_git
