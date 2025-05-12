@@ -1,4 +1,5 @@
 ## 🔄 Travailler avec Git dans la VM
+# Préparation
 LA PREMIERE FOIS :
 
 ## 🔑 Première connexion à GitHub depuis la VM (une seule fois par VM)
