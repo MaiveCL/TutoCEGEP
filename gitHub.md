@@ -75,7 +75,7 @@ git push
 ```
 ---
 
-| 🚀 Pousser ta branche **la premiere fois** sur GitHub | **Les fois suivantes** |
+| #### 🚀 9. Pousser ta branche **la premiere fois** sur GitHub | ## 9. a les fois suivantes |
 |---------------------------------|--------------------|
 | ```bash git push --set-upstream origin nom-de-ta-branche ``` | ```bash git push ```|
 
