@@ -2,7 +2,12 @@
 # Préparation
 LA PREMIERE FOIS :
 
-## 🔑 Première connexion à GitHub depuis la VM (une seule fois par VM)
+### Installer github sur la vm
+   ```bash
+   apt update
+   apt install git -y
+   ```
+### 🔑 Première connexion à GitHub depuis la VM (une seule fois par VM)
 
 Configurer ton identité Git :
 ```bash
