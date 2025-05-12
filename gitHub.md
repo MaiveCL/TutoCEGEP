@@ -50,10 +50,13 @@ Modifier tes fichiers `.phtml`, `.php`, `.css`, `.js`, etc.
 git status
 ```
 
-### ➕ 6. Ajouter les fichiers modifiés
+### ➕ 6. Ajouter TOUS les fichiers modifiés
 ```bash
 git add .
 ```
+| Ajouter un seul fichier       | Tout ajouter mais exclure un fichier            | Retirer un fichier qui a déjà été ajouté |
+|------------------------------|--------------------------------------------------|-----------------------------------------|
+| `git add NomDuFichier`        | `git add . && git reset NomDuFichier`            | `git reset NomDuFichier`                 |
 
 ### 🧹 7. Vérifier à nouveau avant de commit
 ```bash
