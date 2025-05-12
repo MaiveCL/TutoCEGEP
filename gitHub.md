@@ -38,7 +38,7 @@ git checkout -b nom-de-ta-branche
 
 # ✍️ 4. Travailler sur ton projet
 
-## Assure-toi d'être sur la bonne branche
+### Assure-toi d'être sur la bonne branche
 *Sans le -b tu basculeras vers cette branche*
 ```bash
 git checkout nom-de-ta-branche
